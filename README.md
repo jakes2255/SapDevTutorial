@@ -1,5 +1,5 @@
 # SapDevTutorial
-![alt text](https://img.shields.io/badge/SAPUI5-blue "SAPUI5")
+![alt text](https://img.shields.io/badge/SAP-UI5-blue "SAPUI5")
 ![alt text](https://img.shields.io/badge/Object-Page-yellow "Object Page")
 ![alt text](https://img.shields.io/badge/Dynamic-Layout-yellowgreen "Dynamic Layout")
 
