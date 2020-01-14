@@ -24,7 +24,7 @@ sap.ui.define([
 			});
 		},
 		handleSearch: function (evt) {
-			// create model filter
+			// create model filter, UI5 Filter example
 			var filters = [];
 			var query = evt.getParameter("query");
 			if (query && query.length > 0) {
