@@ -1,7 +1,7 @@
 # SapDevTutorial
 ![alt text](https://img.shields.io/badge/SAP-UI5-blue "SAPUI5")
-![alt text](https://img.shields.io/badge/Object-Page-yellow "Object Page")
-![alt text](https://img.shields.io/badge/Dynamic-Layout-yellowgreen "Dynamic Layout")
+![alt text](https://img.shields.io/badge/Web-IDE-yellow "Web IDE")
+![alt text](https://img.shields.io/badge/Dev.-Tutorial-yellowgreen "Dev. Tutorial")
 
 ### Ref:
 https://developers.sap.com/group.cp-frontend-ui5-1.html</br>
